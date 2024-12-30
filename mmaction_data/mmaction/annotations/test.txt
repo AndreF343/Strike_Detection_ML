@@ -1,0 +1,2 @@
+strike/18 5 1
+neutral/18 5 0
