@@ -25,6 +25,6 @@ I had planned to [train a model with the 3DCNN architecture](https://github.com/
 
 <h2>Result</h2>
 
-While the model's accuracy is not production-ready, I think the accuracy for having only 40 data points was quite impressive. There is clear room for tuning the model's efficiency and parameter configuration, nut the ultimate bottle-neck remains the dataset size. If Label-Studio ever does get back to me about using their integrated ML backend solutions, I may revisit this project to improve it's accuracy and expand the number of detectable classes.
+While the model's accuracy is not production-ready, I think the accuracy for having only 40 data points was quite impressive. There is clear room for tuning the model's efficiency and parameter configuration, but the ultimate bottle-neck remains the dataset size. If Label-Studio ever does get back to me about using their integrated ML backend solutions, I may revisit this project to improve it's accuracy and expand the number of detectable classes.
 
 </div>
