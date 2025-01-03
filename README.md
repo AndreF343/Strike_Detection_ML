@@ -38,6 +38,6 @@ I had planned to [train a model with the 3DCNN architecture](https://github.com/
 
 While the model's accuracy is not production-ready, the accuracy for having only 40 data points was quite impressive. There is clear room for tuning the model's efficiency and parameter configuration, but the ultimate bottle-neck remains the dataset size. If Label-Studio ever does get back to me about using their integrated ML backend solutions, I may revisit this project to improve it's accuracy and expand the number of detectable classes.
 
-Included in this repository are the scripts used to train the [3DCNN model](https://github.com/AndreF343/Strike_Detection_ML/blob/main/3DCNN_Pipeline.ipynb) and the [TSN model](https://github.com/AndreF343/Strike_Detection_ML/blob/main/TSN_Pipeline.ipynb) (higher accuracy) using the MMAction2 framework.
+Included in this repository are the scripts used to train the [3DCNN model](https://github.com/AndreF343/Strike_Detection_ML/blob/main/3DCNN_Pipeline.ipynb) and the [TSN model](https://github.com/AndreF343/Strike_Detection_ML/blob/main/TSN_Pipeline.ipynb) (higher accuracy) using the MMAction2 framework, as well as the training data used to generate the models.
 
 </div>
