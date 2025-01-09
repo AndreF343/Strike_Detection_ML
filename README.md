@@ -1,7 +1,7 @@
 <div align="fill">
 <h1>Strike_Detection_ML</h1>
   
-Computer vision project aiming to train a model to recognize 'strikes' in Mixed Martial Arts.
+Computer vision project aiming to train a model to recognize 'strikes' in Mixed Martial Arts. _(Look in the top left corner of the GIF!)_
 
 ![test_optimized_12345 (online-video-cutter com) (2)](https://github.com/user-attachments/assets/1bbdffa9-a937-4fc6-800c-53141c686507)
 
